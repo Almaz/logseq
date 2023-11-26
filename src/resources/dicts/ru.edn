@@ -232,7 +232,7 @@
  :settings-page/enable-whiteboards                     "Интерактивные доски"
  :settings-page/native-titlebar                        "Встроенная строка заголовка"
  :settings-page/native-titlebar-desc                   "Включить встроенную строку заголовка окна в Windows и Linux."
- :settings-page/check-for-updates                      "Проверить наличие обновлений"
+ :settings-page/check-for-updates                      "Проверить обновления"
  :settings-page/checking                               "Проверка ..."
  :settings-page/revision                               "Редакция: "
  :settings-page/changelog                              "Что нового?"
